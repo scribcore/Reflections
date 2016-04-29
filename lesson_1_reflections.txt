@@ -1,0 +1,60 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	The bug was only in one the new file
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Understanding the changes for each revision is helpful
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pro of manual commit is that you can review changes before they are saved.
+    The con of manual commit is that you might forget to save changes and it's less convenient
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Batch processing is always more efficient, if the files are not interdependent
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By typing them into the Bash
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    version control allows for an immediate rollback of changes to a known previous system state
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Creating websites
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	You can use versions to identify specific changes in code
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Pros-you can fine tune the commits with custom explanations
+	Cons-None
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Multiple files saved in one commit allow for a version cohesiveness between system files that are functionally interdependent
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log shows an index of commits with descriptions
+	git diff show the line delta between 2 commits in the repository
+
+How might using version control make you more confident to make changes that could break something?
+
+	I can revert back to any instance of system files that I choose too.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	For maintaining revisions for coding projeccts
