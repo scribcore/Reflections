@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	A hidden folder .git is created. Git is now ready track specified files
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By grouping the staging area with files modified for the purpose of single logical change before committing the change
+
