@@ -20,3 +20,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The diagram provides a map or chart for the commit structure.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros for auto merging:time efficient
+	Cons:None
+
