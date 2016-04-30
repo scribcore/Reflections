@@ -14,3 +14,9 @@ How do the diagrams help you visualize the branch structure?
 
 	The diagrams act as a map or graph to find specific repository revisions
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches uses the head repository revision from each branch and comparing the 2 Head nodes to the common ancestor node, the merge of the revision occurs based on deltas to content from the CA for each Head node based on deletion & addition, and then commonalities between the 2 Head nodes.
+
+	The diagram provides a map or chart for the commit structure.
+
