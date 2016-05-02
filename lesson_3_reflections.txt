@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	You will want to check changes to the GitHub repository beforing pulling them into your local repository
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Fork: Cloning a repository on GitHub
+	Clones: To make a copy of repository with auto 'origin' remote repository configured
+	Branch: Make a separate area of commits to work with
+
