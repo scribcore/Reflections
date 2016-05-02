@@ -2,3 +2,7 @@ What kind of reflections are you considering for remote Git Hub?
 
   Probably creating a new file
   
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	You will want to check changes to the GitHub repository beforing pulling them into your local repository
+
