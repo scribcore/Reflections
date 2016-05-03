@@ -12,3 +12,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones: To make a copy of repository with auto 'origin' remote repository configured
 	Branch: Make a separate area of commits to work with.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It's easier to synch changes in versions when doing 'git push' to the remote
+
+
